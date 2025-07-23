@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name/Your GitHub Username]!
+# Ioannis Karasoulas / Gloman
 
 ---
 
@@ -30,8 +30,3 @@ Here's a glimpse of the technologies I work with:
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ioanniskarasoulas-gln&show_icons=true&theme=default)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioanniskarasoulas-gln&layout=compact&theme=default)
