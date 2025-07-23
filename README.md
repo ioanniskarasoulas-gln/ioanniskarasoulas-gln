@@ -9,7 +9,7 @@ I'm a **Software Developer** passionate about building **web and mobile applicat
 -   💻 Currently focused on: **Full-stack development** with an emphasis on **React** and **Next.js**.
 -   📱 Exploring: The latest in **Flutter** and **mobile app development**.
 -   🤝 Looking to collaborate on: **Innovative web and mobile projects**.
--   ✉️ How to reach me: [ioanniskarasoulas@gloman.gr] / Connect with me on [https://gr.linkedin.com/in/ioanniskarasoulas]
+-   ✉️ How to reach me: [Email](ioanniskarasoulas@gloman.gr) / Connect with me on [Linkdedin](https://gr.linkedin.com/in/ioanniskarasoulas)
 
 ---
 
@@ -33,5 +33,5 @@ Here's a glimpse of the technologies I work with:
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ioanniskarasoulas-gln]&show_icons=true&theme=default)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[ioanniskarasoulas-gln]&layout=compact&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ioanniskarasoulas-gln&show_icons=true&theme=default)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioanniskarasoulas-gln&layout=compact&theme=default)
