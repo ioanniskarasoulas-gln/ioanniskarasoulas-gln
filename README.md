@@ -8,8 +8,6 @@ I'm a **Software Developer** passionate about building **web and mobile applicat
 
 -   💻 Currently focused on: **Full-stack development** with an emphasis on **React** and **Next.js**.
 -   📱 Exploring: The latest in **Flutter** and **mobile app development**.
--   🤝 Looking to collaborate on: **Innovative web and mobile projects**.
--   ✉️ How to reach me: [Email](ioanniskarasoulas@gloman.gr) / Connect with me on [Linkdedin](https://gr.linkedin.com/in/ioanniskarasoulas)
 
 ---
 
